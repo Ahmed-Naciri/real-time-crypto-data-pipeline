@@ -13,7 +13,7 @@ It collects live crypto prices, streams them through Kafka, processes them using
 - **Visualization (optional)**: Grafana 
 
 
-```md
+
 ![Architecture](architecture.png)
 
 ## 🔧 Tech Stack
