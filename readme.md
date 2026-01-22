@@ -12,6 +12,10 @@ It collects live crypto prices, streams them through Kafka, processes them using
 - **Orchestration**: Docker & Docker Compose
 - **Visualization (optional)**: Grafana 
 
+
+```md
+![Architecture](architecture.png)
+
 ## 🔧 Tech Stack
 - Python
 - Apache Kafka
